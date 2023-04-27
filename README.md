@@ -1,6 +1,1 @@
-CRUD com API POSTMON e INTERFACE GUI desenvolvido utilizando Java e SQL para o professor André (Maligno)
-
-Participantes:
-- Gustavo Miguel
-- João Vedroni
-- Kauan Piacente
+CRUD (Create, Read, Update, Delete) feito em Java e interface gui, acessando uma api-postmon que inclui endereços para, neste caso, cadastrar Shoppings e inclui-los em um banco de dados (SQLServer). 
